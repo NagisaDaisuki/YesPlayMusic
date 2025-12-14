@@ -1,4 +1,6 @@
 {
+  "installCommand": "yarn install --ignore-engines",
+  "framework": "vue",
   "rewrites": [
     {
       "source": "/api/:match*",
